@@ -2,6 +2,9 @@
 
 Co-Bie is a groundbreaking application that connects individuals with shared hobbies, making it easy to find and engage with like-minded enthusiasts. Whether you're a seasoned hobbyist or just starting, Co-Bie offers a user-friendly platform to connect, share experiences, and organize meetups based on your interests.
 
+## Demonstration Video
+https://drive.google.com/file/d/1aKSp_zHzThdYD97LQuJmbN2z48ObIfy5/view?usp=sharing
+
 ## Key Features  
 * Personalized Event Recommendations: Get tailored event suggestions based on your hobbies and interests, ensuring you never miss out on exciting gatherings.  
 * Live Chat Functionality: Chat with other hobbyists in real-time, share tips, seek advice, and build meaningful connections.  
@@ -18,4 +21,3 @@ We welcome contributions from the open-source community to make Co-Bie even bett
 ## Join The Community
 Connect with us and other hobbyists on Co-Bie to enrich your hobby-related experiences, share expertise, and create lasting connections with people who share your passions.
 
-## Demonstration Video
